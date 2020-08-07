@@ -1,4 +1,5 @@
-[![](http://img.youtube.com/vi/c4PtBs9bxEM/0.jpg)](http://www.youtube.com/watch?v=c4PtBs9bxEM "Generating Electricity By Walking")
+## Demo Video
+https://youtu.be/c4PtBs9bxEM
 
 ## Summary
 The average American walks approximately 3,500 steps per day; each step creates mechanical energy, energy which ends up being wasted and dispersed into the environment. Tapping into this wasted energy opens a door for opportunities to supplement the user’s actions. Varying amounts of piezoelectric sensors were used to generate this energy which gets stored in a LiPo battery through the aid of the BQ25570 chip. My design used 33 piezoelectric sensors, which generated, approximately 0.27 volts or 23.625 mAh just after 60 steps. If a user wore this shoe and walked the average amount of steps per day, they would generate 1,378.125 mAh! In addition, I developed an add-on to this project that adds an Arduino Nano with an Accelerometer and Gyroscope sensor. The data from these sensors are run through a neural network that predicts the behavior the user is doing. For example, if the user is jumping it will predict they are jumping.
