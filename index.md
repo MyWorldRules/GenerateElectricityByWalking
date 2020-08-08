@@ -2,7 +2,8 @@
 
 ___
 
-<iframe width="420" height="345" src="https://youtu.be/c4PtBs9bxEM"></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/c4PtBs9bxEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 https://youtu.be/c4PtBs9bxEM
 
 ## 📄 Summary
