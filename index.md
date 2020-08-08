@@ -4,13 +4,20 @@ ___
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/c4PtBs9bxEM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-https://youtu.be/c4PtBs9bxEM
+
 
 ## 📄 Summary
 
 ___
 
 The average American walks approximately 3,500 steps per day; each step creates mechanical energy, energy which ends up being wasted and dispersed into the environment. Tapping into this wasted energy opens a door for opportunities to supplement the user’s actions. Varying amounts of piezoelectric sensors were used to generate this energy which gets stored in a LiPo battery through the aid of the BQ25570 chip. My design used 33 piezoelectric sensors, which generated, approximately 0.27 volts or 23.625 mAh just after 60 steps. If a user wore this shoe and walked the average amount of steps per day, they would generate 1,378.125 mAh! In addition, I developed an add-on to this project that adds an Arduino Nano with an Accelerometer and Gyroscope sensor. The data from these sensors are run through a neural network that predicts the behavior the user is doing. For example, if the user is jumping it will predict they are jumping.
+
+## Images
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
 
 ## 🚧 How I built it
 
